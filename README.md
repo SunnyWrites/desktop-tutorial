@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# Exercise Week 2  
+## By Susanna Unick  
+This is a *trial* for week 2  
+I am _testing_ how to clone a repository  
+I hope this works! 
